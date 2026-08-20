@@ -1,4 +1,3 @@
-import 'dart:ffi';
 
 void main() {
   String greeting = "Hello from Dart!";
